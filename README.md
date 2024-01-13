@@ -3,4 +3,4 @@
 ## Data Scientist
 -- some description
 
-[Projects](/Example.md)
+[Projects](/Example.md) | [About Us](/Example.md)

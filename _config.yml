@@ -3,3 +3,9 @@ description: Data Scientist
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+author:
+  name   : "Mehraj"
+  #avatar : "bio-photo.jpg"  # placed in /images/
+  bio    : "My awesome biography constrained to a sentence or two goes here."
+  email  : "mehraj.mirdha@gmail.com"
+  uri    : "www.linkedin.com/in/mrmirdha"
